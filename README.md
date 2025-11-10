@@ -1,7 +1,7 @@
 # ⚽ FutQuiz
 
 O **FutQuiz** é uma plataforma interativa de perguntas e desafios sobre futebol, onde os jogadores testam seus conhecimentos, sobem de nível, e competem em rankings diários.  
-O projeto foi desenvolvido com **React**, **Node.js**, **Express** e **MongoDB**, com autenticação JWT e integração com **Cloudinary** para gerenciamento de avatares dos usuários.
+O projeto foi desenvolvido com **React**, **Node.js**, **Express** e **MongoDB**, com autenticação JWT.
 
 ---
 
