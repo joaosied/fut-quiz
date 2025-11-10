@@ -10,9 +10,8 @@ O projeto foi desenvolvido com **React**, **Node.js**, **Express** e **MongoDB**
 - 🔐 Sistema de login e cadastro com autenticação JWT  
 - 🧠 Quizzes e desafios diários sobre futebol  
 - 🏆 Ranking de jogadores com atualização automática  
-- 👥 Lista de amigos e convites para jogar  
-- 🖼️ Upload e troca de foto de perfil via Cloudinary  
-- 📅 Sistema de jogos diários automáticos (Impostor Game)  
+- 👥 Lista de amigos e convites para jogar 
+- 📅 Sistema de jogos diários automáticos  
 - 🎮 Criação de salas privadas para partidas entre amigos  
 
 ---
